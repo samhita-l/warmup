@@ -10,7 +10,7 @@ type: ccc
 
 <!-- 
 
-Learn how page works, plus learu about binary
+Learn how page works, plus learn about binary
 Hack 0: Do your own on/off thing with Image and Buttons thing
 Hack 1: change diplay to indicate value of bin (128, 64, 32, 16, 8, 4, 2, 1)
 Hack 2: change one-zero input under bulb to perform updates to page
